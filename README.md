@@ -6,6 +6,9 @@ dependencies:
   pip install requests
   pip install googlesearch-python
   pip install beautifulsoup4
+  pip install transformers torch bnlp_toolkit bnunicodenormalizer
+  pip install google-generativeai
+  pip install hf_xet
 
 
 Libraries:
