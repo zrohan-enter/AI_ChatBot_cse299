@@ -23,6 +23,10 @@
     {
       "question": "What is the National Bird of USA?",
       "answer": "The bald eagle is the national bird of the United States. It was officially designated as the national emblem by the U.S. Congress in 1782."
+    },
+    {
+      "question": "multiply two and two",
+      "answer": "Result: 4"
     }
   ]
 }
